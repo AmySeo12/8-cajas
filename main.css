@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.uno    {
+    height: 80px;
+    width: 80px;
+    background-color: #808080;
+    margin-bottom: 10px; 
+    border: 1px solid black;
+}
+
+.dos    {
+    display: table-row;
+    height: 80px;
+    width: 240px;
+    background-color: #808080;
+    border-spacing: 10px;
+    border: 1px solid black
+}
+
+.medio, .medio2, .medio3{
+    display: table-cell;
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+}
+
+.tres   {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-color: #808080; 
+    margin-top: 10px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+
+.cuatro {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-color: #808080;
+    border: 1px solid black;
+}
+
+.cinco  {
+    height: 80px;
+    width: 80px;
+    background-color: #808080 ;
+    margin-bottom: 10px;  
+    border: 1px solid black;
+}
